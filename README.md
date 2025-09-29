@@ -10,14 +10,16 @@
 ###     [Abdullh](https://www.linkedin.com/in/abdulllh-esmail-67a340299/)  👋 
 
 
-I'm a Passionate .NET Back-End Developer focused on building scalable and secure web applications using ASP.NET Core, Entity Framework, and SQL Server. Dedicated to writing clean code and designing 
-efficient, scalable architectures 
+I'm a passionate **.NET Back-End Developer** focused on building scalable and secure web applications using ASP.NET Core, Entity Framework, and SQL Server. Dedicated to writing clean code and designing efficient, scalable architectures.
+ 
 ---
  
 
 ###
 
 <img align="right" height="250" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"  />
+
+
 
 
  

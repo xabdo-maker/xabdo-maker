@@ -10,8 +10,8 @@
 ###     [Abdullh](https://www.linkedin.com/in/abdulllh-esmail-67a340299/)  👋 
 
 
-I'm a passionate **Frontend Developer** with a Bachelor's degree in Computer Science from Minufiya University. Currently, I'm learn at **Route** where I leverage my expertise in various frontend technologies to create user-friendly and scalable interfaces.
-
+I'm a Passionate .NET Back-End Developer focused on building scalable and secure web applications using ASP.NET Core, Entity Framework, and SQL Server. Dedicated to writing clean code and designing 
+efficient, scalable architectures 
 ---
  
 
@@ -25,28 +25,31 @@ I'm a passionate **Frontend Developer** with a Bachelor's degree in Computer Sci
 ### About Me
 
 - 🎓 **Education:** Bachelor's degree in Computer Science from Minufiya University.
-- 🏢 **Current Role:** Frontend Developer .
+- 🏢 **Current Role:** Back-End Developer .
 - 🛠 **Technologies I Use:**
-  - **Frameworks & Libraries:** Angular, AngularJS, jQuery, RxJS, JavaScript Libraries , Typescript Libraries , Angular Material , json-server , Angular Charts.
-  - **CSS:** Tailwind CSS, SASS, Bootstrap.
-  - **Tools:** npm , Figma , Adobe Illustrator , Azure DevOps Server , GitHub , postman.
-  - **Languages:** ECMAScript , JavaScript , HTML5 , CSS3.
-  - **Methodologies:** Agile Methodologies.
-  - **Others:** REST APIs , AJAX , Debugging , Unit Testing.
+  ## 🛠 Skills
+
+- **Frameworks & Libraries:** ASP.NET Core, Entity Framework, LINQ, Flask, Bootstrap  
+- **CSS:** CSS3, Bootstrap  
+- **Tools:** Git, GitHub, Postman  
+- **Languages:** C#, SQL, JavaScript (ES6+), HTML5, CSS3  
+- **Methodologies:** OOP, SOLID Principles, Design Patterns  
+- **Others:** RESTful APIs, AJAX, Problem Solving, Debugging  
+
 
 ---
 
 ### What I'm Working On
 
 - 🔭 I’m currently working on building robust and aesthetically pleasing user interfaces at Route.
-- 🌱 I’m currently learning more about advanced frontend frameworks and performance optimization techniques.
+- 🌱 I’m currently learning more about advanced Back-end frameworks and performance optimization techniques.
 - 👯 I’m looking to collaborate on innovative frontend projects and open-source contributions.
 
 ---
 
 ### Get in Touch
 
-- 💬 Ask me about frontend development, Angular, or any of the technologies I use.
+- 💬 Ask me about Back-end development, .NET Core, or any of the technologies I use.
 - 📫 How to reach me: [Email](mailto:xabdo8207@gmail.com)
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdulllh-esmail-67a340299/)
 - ⚡ Fun fact: I am passionate about solving complex problems and constantly seek new challenges to improve my skills.
@@ -55,32 +58,7 @@ I'm a passionate **Frontend Developer** with a Bachelor's degree in Computer Sci
 ---
 
 
-### Skills & Endorsements
 
-- **Problem Solving**
-- **REST APIs**
-- **Debugging**
-- **Angular**
-- **Tailwind CSS**
-- **npm**
-- **ECMAScript**
-- **AJAX**
-- **SASS**
-- **jQuery**
-- **Unit Testing**
-- **JavaScript Libraries**
-- **RxJS**
-- **Figma**
-- **Agile Methodologies**
-- **Adobe Illustrator**
-- **Azure DevOps Server**
-- **GitHub**
-- **Bootstrap**
-- **AngularJS**
-- **HTML5**
-- **JavaScript**
-- **CSS3**
-- **HTML**
   
 ## I code with
 
@@ -97,18 +75,13 @@ I'm a passionate **Frontend Developer** with a Bachelor's degree in Computer Sci
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-</div>
+
 
 
 <div align="center">
